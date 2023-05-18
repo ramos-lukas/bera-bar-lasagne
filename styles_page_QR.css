@@ -1,0 +1,48 @@
+.buttons{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    column-gap: 5%;
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+.bouton_contact{
+    font-size: 1.3em;    
+    background: linear-gradient(#bd0000, #ff7c02);
+    color: white;
+    border-radius: 50px;
+    padding: 20px 30px;
+    text-decoration: none;
+}
+
+.bouton_contact:hover{
+    background: linear-gradient(#ff5f02, #f7de73);
+    text-decoration: none
+}
+
+.menu{
+    margin-top: 10%;
+}
+
+
+h2{
+    text-align: center;
+    margin: 2rem auto;
+    font-family: 'Lobster', cursive;
+    font-size: 3em;
+}
+
+p{
+    text-align: center;
+    color: black;
+}
+
+
+.sponsors{
+    display: flex;
+    align-items: center;
+}
+
+
+
